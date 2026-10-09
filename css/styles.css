@@ -23,3 +23,118 @@ img {
 body {
   font-size: 1.6rem;
 }
+.container {
+  width: 140rem;
+  margin: 0 auto;
+}
+.logo a {
+  list-style: none;
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.nav-cabeza {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+  padding: 1.6rem 1.6rem;
+  margin: ;
+}
+
+.logo {
+  text-decoration: none;
+  list-style: none;
+  font-size: 1.6rem;
+}
+
+.nav-items ul {
+  display: flex;
+}
+.nav-items li {
+  list-style: none;
+  font-size: 1.4rem;
+  margin-left: 2.8rem;
+}
+
+.nav-items li a {
+  text-decoration: none;
+  color: #555555;
+}
+
+.hero {
+  background-color:#000000;
+  padding: 1.6rem ;
+
+}
+.text-blaco {
+  color: white;
+}
+
+.inferior-uno h1 {
+  color: white;
+  font-size: 4rem;
+}
+
+.inferior-uno h1 span {
+  color: #c0392b ;
+  font-size: 4rem;
+}
+
+.text-marron-inferior {
+   color: #888888;
+  
+}
+
+.btn a  {
+  text-decoration: none;
+  background-color: #c0392b;
+  font-size: 1.4rem;
+  padding: 1rem 2.4rem;
+  border-radius: 0.6rem;
+
+}
+
+.button-rojo {
+  color: #ffffff;
+
+}
+
+
+footer {
+  background-color: #111111;
+
+}
+
+footer h3, h4 {
+  color: #ffffff;;
+}
+footer h3 {
+  font-size: 1.8rem;
+}
+footer h3, h4 {
+  font-size: 1.6rem;
+}
+.color-marron {
+  color: #888888;
+  font-size: 1.6rem;
+}
+
+.footer-abajo {
+  text-align: center;
+  border-top: solid #888888 ;
+}
+
+.items-footer ul{
+  display: flex;
+  text-decoration: none;
+}
+.items-footer ul, li {
+  flex-direction: column;
+  color: #888888;
+  
+}
+.items {
+  display: flex;
+  justify-content: space-evenly;
+}
